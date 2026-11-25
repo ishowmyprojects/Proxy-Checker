@@ -1,2 +1,2 @@
 # Proxy-Checker
-a proxy checker 🤣
+*Uzmanlaştırılmış bir Proxy Checker Toolu.*
